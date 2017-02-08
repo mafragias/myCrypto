@@ -1,3 +1,6 @@
+
+# Cryptografic Functions
+
 - AES Encryption / Decryption 
   - modes: ECB, CBC
   - keys: 16, 24, 32
@@ -11,4 +14,3 @@
 
 - Sign / Verify
 
-# myCrypto
